@@ -1,5 +1,8 @@
 # Topik-9
 Tugas Topik 9 : Grafik Komputer
+Nama : Jumjumi Asbullah
+NIM : 0702193170
+DOSEN PENGAMPU : BAPAK SAMSUDIN,S.T., M.Kom
 
 USES CRT,GRAPH;
 VAR GD,GM,XA,YA,XB,YB,XC,YC,XD,YD,XE,YE,I:INTEGER;
